@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Fixed';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://github.com/scott0107000/secondary-axes/blob/d48fbf84eac5e5e311b017ab0456d8c8d1641f2d/FixedMedium.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'CNS';
+  font-style: normal;
+  font-weight: 400;
+  src: url(待添加) format('woff');
+}
